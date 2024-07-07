@@ -8,7 +8,7 @@
 
 ## **Project Goals and Success Criteria**
 
-To address this disparity, we plan to develop a website that provides access to learning. This website aims to help teachers improve efficiency in teaching students and provide educational accessibility for everyone. The website will be equipped with video transcription and summary features, ensuring everyone can obtain equal and quality knowledge. The success of this project will be measured using the SMART method with the following criteria:
+To address this disparity, we plan to develop a website that provides access to learning called **LearnDigest**. This website aims to help teachers improve efficiency in teaching students and provide educational accessibility for everyone. The website will be equipped with video transcription and summary features, ensuring everyone can obtain equal and quality knowledge. The success of this project will be measured using the SMART method with the following criteria:
 
 - **Specific:** Increase the interest in learning among students who have not had the opportunity to receive a good education.
 - **Measurable:** Increase the number of students participating in online learning programs by 20% within 6 months.
@@ -37,4 +37,4 @@ The target audience for this project includes:
 
 ## **Conclusion**
 
-By developing a website that provides complete learning access with transcription and summary features, this project aims to help teachers deliver the best education possible. By expanding accessibility through digital technology, it is hoped to increase learning opportunities and the quality of education for all groups, including students from low-income families, individuals with disabilities, and those who have dropped out of school.
+By developing a website called **LearnDigest** that provides complete learning access with transcription and summary features, this project aims to help teachers deliver the best education possible. By expanding accessibility through digital technology, it is hoped to increase learning opportunities and the quality of education for all groups, including students from low-income families, individuals with disabilities, and those who have dropped out of school.
