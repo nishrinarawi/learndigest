@@ -1,6 +1,6 @@
 
 
-#**LearnDigest: Educational access services in the form of videos presented with transcriptions and summaries**
+# **LearnDigest: Educational access services in the form of videos presented with transcriptions and summaries**
 
 ## **Background and Issues**
 
