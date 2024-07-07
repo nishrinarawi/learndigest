@@ -4,7 +4,7 @@
 
 ## Project Documentation:
 - [E-Learning Repository](https://github.com/robbyulawal11/eLearning.git)
-- [Azure Repository](https://github.com/fadhilelrizanda/AI11-function-azue.git)
+- [Azure Repository (azure function, video indexer, openAI) ](https://github.com/fadhilelrizanda/AI11-function-azue.git)
 - [Presentation Deck](https://github.com/nishrinarawi/learndigest/blob/aa92745946aa4d54266e4cafcd6615ab0a9b563e/Pitch%20Deck%20-%20Final%20Project%20Team%2011.pdf)
 - [Dashboard](https://github.com/nishrinarawi/learndigest/tree/aa92745946aa4d54266e4cafcd6615ab0a9b563e/Dashboard)
 - [Presentation Video](https://youtu.be/K7GueCRHWwo?si=5RioBNNnrif4y4as)
