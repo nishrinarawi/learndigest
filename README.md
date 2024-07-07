@@ -2,6 +2,11 @@
 
 # **LearnDigest: Educational access services in the form of videos presented with transcriptions and summaries**
 
+## Project Documentation:
+- E-Learning Repository [https://github.com/robbyulawal11/eLearning.git]
+- Azure Repository [https://github.com/fadhilelrizanda/AI11-function-azue.git]
+- Presentation Deck []
+
 ## **Background and Issues**
 
 Education plays a vital role in the development of a country. Quality and accessible education is key to improving the welfare of society and the nation's competitiveness. However, in Indonesia, there is a significant disparity in access to quality education and digital resources between urban and remote areas. This disparity is evident from the lack of teachers in remote areas, which forces teachers to handle and manage more students than the ideal number, resulting in an excessive workload for teachers in remote areas.
